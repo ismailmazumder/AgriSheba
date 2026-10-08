@@ -1,7 +1,7 @@
 # agriappp
 
 A new Nebula Collector project.
-
+## We have just released our Android app. Later, our Windows, Linux, and Mac versions will roll out.
 ## Screenshots
 
 ![Screenshot 1](pngs/screenshot%202026-10-08%20113300.png)
